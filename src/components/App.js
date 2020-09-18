@@ -1,13 +1,11 @@
 import React from 'react';
+import QuoteBox from './QuoteBox';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Quotes will be here</h1>
-      </header>
-    </div>
+    <QuoteBox />
   );
 }
 

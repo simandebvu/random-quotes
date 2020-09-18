@@ -8,3 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2020-09-10
 ### Added
+- Bootstrapped to aid in quick prototype development
+- Links to share on tumblr and twitter
+- Random Quotes generated on each turn
