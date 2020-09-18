@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/simandebvu/random-quotes/">
-    <img src="./public/logo192.png" alt="Logo" width="200" height="150">
+    <img src="./public/logo.png" alt="Logo" width="200" height="150">
   </a>
 
   <h3 align="center">Random Quotes</h3>
