@@ -1,30 +1,30 @@
-# Calc-eat
+# Random Quotes
 
 <br />
 <p align="center">
-  <a href="https://github.com/simandebvu/calc-eact/">
+  <a href="https://github.com/simandebvu/random-quotes/">
     <img src="./public/logo192.png" alt="Logo" width="200" height="150">
   </a>
 
-  <h3 align="center">Calc-eact</h3>
+  <h3 align="center">Random Quotes</h3>
 
   <p align="center">
     A React Based Project
     <br />
-    <a href="https://github.com/simandebvu/calc-eact/issues/"><strong>Issues »</strong></a>
+    <a href="https://github.com/simandebvu/random-quotes/issues/"><strong>Issues »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/simandebvu/calc-eact/issues/">Report Bug</a>
+    <a href="https://github.com/simandebvu/random-quotes/issues/">Report Bug</a>
     ·
-    <a href="https://github.com/simandebvu/calc-eact/">Request Feature</a>
+    <a href="https://github.com/simandebvu/random-quotes/">Request Feature</a>
   </p>
 </p>
 
-> A calculator for Math-magicians Inc using create-react-app, a tool built by developers at Facebook to help you build React applications, saving you from time-consuming setup and configuration.
+> A random quotes generator implemented with redux and hooks. Bootstrapped to quickly come up with a minimum viable product. This project entails API calls which will then get passed from the actions to the state.
 
 ## Table Of Contents
 
-- [Calc-eat](#calc-eat)
+- [Random Quotes](#random-quotes)
   - [Table Of Contents](#table-of-contents)
   - [Built With](#built-with)
   - [Usage](#usage)
@@ -42,6 +42,7 @@
 - Node.js
 - React
 - React-DOM
+- Redux
 - React-Create-App
 - npm
 - CSS
@@ -50,14 +51,14 @@
 ## Usage
 
 To have this app on your pc, you need to:
-* [download](https://github.com/simandebvu/calc-eact/archive/development.zip) or clone this repo:
+* [download](https://github.com/simandebvu/random-quotes/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:simandebvu//calc-eact.git
+    git@github.com:simandebvu/random-quotes.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/simandebvu/calc-eact.git
+    https://github.com/simandebvu/random-quotes.git
   ```
 
 * In the project directory, you can run:
